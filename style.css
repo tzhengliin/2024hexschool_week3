@@ -3,6 +3,8 @@
     box-sizing: border-box;
 }
 
+
+
 :root {
     --primary: #aa0601;
     --white: #ffffff;
@@ -40,6 +42,10 @@ img {
 
 .text-center {
     text-align: center;
+}
+
+.text-vertical-middle{
+    vertical-align: middle;
 }
 
 .text-white {
